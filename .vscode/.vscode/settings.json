@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
+/*{
+    "python.jediEnabled": true,
+
+    "python.linting.flake8Enabled": true,
+
+    "python.formatting.provider": "yapf",
+
+    "python.linting.flake8Args": ["--max-line-length=248"],
+
+    "python.linting.enabled": true,
+
+    "python.linting.pylintEnabled": true,
+
+    "python.autoComplete.extraPaths": [
+
+            "E:\\app\\Anaconda\\envs\\SnakeAI\\Lib\\site-packages",
+
+            "E:\\app\\Anaconda\\envs\\SnakeAI\\Lib\\site-packages\\Scripts", ],
+
+    "python.pythonPath": "E:\\app\\Anaconda\\envs\\SnakeAI\\python.exe",
+
+}*/

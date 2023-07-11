@@ -1,0 +1,1 @@
+    printf("g:%d\n",num[i]);
